@@ -12,7 +12,9 @@ pandas=0.21.0
 networkX
 
 ## data:
-Download data from `https://drive.google.com/drive/folders/1lU6k8DNXThdWXOafHoXC-3UjwCArT84h?usp=sharing`. There are four files: data.zip, cache.zip, img_features.zip and best-ckpt.zip. 
+Download data from `https://drive.google.com/drive/folders/1lU6k8DNXThdWXOafHoXC-3UjwCArT84h?usp=sharing`. There are three files: data.zip, cache.zip, img_features.zip and best-ckpt.zip. 
+Download ResNet-152 feature use`wget https://storage.googleapis.com/bringmeaspoon/img_features/ResNet-152-imagenet.zip -O ResNet-152-imagenet.zip
+unzip ResNet-152-imagenet.zip`
 Unzip these zipfile, and put them under the order below.
 ```
 CKR
