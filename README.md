@@ -22,6 +22,7 @@ Download ResNet-152 feature use
 
 `wget https://storage.googleapis.com/bringmeaspoon/img_features/ResNet-152-imagenet.zip -O ResNet-152-imagenet.zip
 unzip ResNet-152-imagenet.zip`
+
 Unzip these zipfile, and put them under the order below.
 ```
 CKR
@@ -39,5 +40,5 @@ CKR
 
 
 ## to train:
-`bash run.sh train 0
+`bash run.sh train 0`
 
