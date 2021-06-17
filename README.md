@@ -1,7 +1,7 @@
 # CKR-nav
 Code for our CVPR 2021 paper "[Room-and-Object Aware Knowledge Reasoning for Remote Embodied Referring Expression]".
 
-Contributed by Chen Gao*, Jinyu Chen*, Si Liu1†, Luting Wang, Qiong Zhang, Qi Wu
+Contributed by [Chen Gao*](http://chengaopro.github.io/), Jinyu Chen*, [Si Liu1†](https://scholar.google.com/citations?user=-QtVtNEAAAAJ&hl=zh-CN&oi=ao), Luting Wang, Qiong Zhang, [Qi Wu*](https://scholar.google.com/citations?hl=zh-CN&user=aKXe1FEAAAAJ&view_op=list_works&sortby=pubdate)
 
 ![](framework.png)
 
