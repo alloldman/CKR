@@ -1,0 +1,4 @@
+pytorch-transformers==1.2.0
+nltk==3.5
+pandas==0.21.0
+networkX
