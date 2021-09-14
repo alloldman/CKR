@@ -30,7 +30,7 @@ Contributed by [Chen Gao*](http://chengaopro.github.io/), Jinyu Chen*, [Si Liu1â
 1. Download ResNet-152 features for Matterport 3D dataset:
 
     ~~~
-    wget https://storage.googleapis.com/bringmeaspoon/img_features/ResNet-152-imagenet.zip -O ResNet-152-imagenet.zip
+wget https://www.dropbox.com/s/o57kxh2mn5rkx4o/ResNet-152-imagenet.zip -P img_features/
     unzip ResNet-152-imagenet.zip
     ~~~
 2. Download the Intermediate data from  [here](https://drive.google.com/drive/folders/1lU6k8DNXThdWXOafHoXC-3UjwCArT84h?usp=sharing).  `data.zip, cache.zip, img_features.zip, best-ckpt.zip` should be unziped.
