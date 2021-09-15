@@ -40,7 +40,8 @@ Contributed by [Chen Gao*](http://chengaopro.github.io/), Jinyu Chen*, [Si Liu1�
     CKR
     ├──data
     ├──KB
-    │  └──cache
+    │  ├──cache
+    |  └─data
     ├──experiments
     │  └──best-ckpt
     └──img_features
