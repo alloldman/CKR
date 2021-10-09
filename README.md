@@ -33,7 +33,7 @@ Contributed by [Chen Gao*](http://chengaopro.github.io/), Jinyu Chen*, [Si Liu1�
     wget https://www.dropbox.com/s/o57kxh2mn5rkx4o/ResNet-152-imagenet.zip -P img_features/
     unzip ResNet-152-imagenet.zip
     ~~~
-2. Download the Intermediate data from  [here](https://drive.google.com/drive/folders/1lU6k8DNXThdWXOafHoXC-3UjwCArT84h?usp=sharing).  `data.zip, cache.zip, img_features.zip, best-ckpt.zip` should be unziped.
+2. Download the Intermediate data from  [here](https://drive.google.com/drive/folders/1lU6k8DNXThdWXOafHoXC-3UjwCArT84h?usp=sharing).  `data.zip, cache.zip, img_features.zip, best-ckpt.zip` should be unziped. And the [room relation weight](https://drive.google.com/file/d/1edq0HzovQ9jeGnkOk2WAtHHt3hquZ4r5/view?usp=sharing) and the [object relation weight](https://drive.google.com/file/d/1RGAIMP5zRKSIzCUboqAxOv_XIV4lKEA2/view?usp=sharing) should be download.
 
 3. Put these unziped files as the order below:
     ~~~
@@ -42,6 +42,8 @@ Contributed by [Chen Gao*](http://chengaopro.github.io/), Jinyu Chen*, [Si Liu1�
     ├──KB
     │  ├──cache
     |  └─data
+    │      ├──relations.npy
+    |      └─relations_room.npy            
     ├──experiments
     │  └──best-ckpt
     └──img_features
